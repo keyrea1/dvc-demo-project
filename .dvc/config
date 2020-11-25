@@ -1,0 +1,5 @@
+[core]
+    remote = sbercloud
+['remote "sbercloud"']
+    url = s3://43f0ed2b-75d1-4beb-93d9-a4591edf6b66-bucket/dvc-demo
+    endpointurl = https://e6a58f38-0658-402f-9740-d58355873a07-namespace.s3pd02.sbercloud.ru
